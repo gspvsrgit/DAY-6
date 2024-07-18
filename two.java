@@ -1,3 +1,3 @@
 i am from java
-i updated in feature branch 1
-i am from master branch
+updated in feature branch 1
+i am from bug fix
